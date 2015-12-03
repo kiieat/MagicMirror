@@ -1,7 +1,6 @@
 
 ##About
-Yong Keat Lim
-Thomas Safran
+Yong Keat Lim and Thomas Safran
 This personal device will have all the important necisities to start your day or stay up to date with current news and weather. 
 
 ##Code 
