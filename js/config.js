@@ -20,16 +20,19 @@ var config = {
         morning: [
             'Good morning, handsome!',
             'Enjoy your day!',
+            'Love yourself!',
             'How was your sleep?'
         ],
         afternoon: [
             'Hello, beauty!',
             'You look sexy!',
+            'Your doing great!',
             'Looking good today!'
         ],
         evening: [
             'Wow, you look hot!',
             'You look nice!',
+            'You did great today!',
             'Hi, sexy!'
         ]
     },
